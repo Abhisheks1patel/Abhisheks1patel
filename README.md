@@ -1,4 +1,3 @@
-<img align="center" alt="coding" src="https://www.canva.com/design/DAFxvrZ6Efw/0k9xnbFNobG4lfR1iuaniA/editutm_content=DAFxvrZ6Efw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Patel</h1>
 <h3 align="center">A passionate frontend and java developer from India</h3>
