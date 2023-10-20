@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Abhisheks1patel/Abhisheks1patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Patel</h1>
+<h3 align="center">A passionate frontend and java developer from India</h3>
+<img align="right" alt="coding" width="400" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACOCAMAAABDh7fdAAAAsVBMVEV6j51MSUar4/dxTi6KYTi5zeBjZGTz8/OCYEE7JhF9jp7bhpLzeYZqcHWKcGP/377r6+xteoSPnqqPpbKdq7a8xc18ipWtt8PW2+B1f4nk5+ve3+C2wsfQ1t11hpPK0tT93sTt0bnRwrSFlqbKtKK4t7jPz8+1p6eCgHulpaahinbGxse9n4mWn6aWlpeJi5HfyrrktbH77OKyjp2kPSSWRTGXTz+SssaWen/39/Pe1s65kdbdAAAErElEQVR4nO2cC3eiOBSAyXYmKN1ICEl5BBFFfFStfUxnt/v/f9gmgFZqO3VrWA9n7tej9sSekK/33pDgw7IAAAA6iM85Z/qX8q6+7yKc5T6zfJ/5+9ulh/Q1OGMqIn6uFLj68dVvlx7S11CZ5eeWz3LGcnXTj5ce0tfQY2+WhnOxsQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAt3Asi4n80qM4DydnXFLFdNDVtw45LBBhTO2a2143Rfgotht0UiQXsUqm7ovk2wVGCJFtUVZHRfdEmKQF2nEnSkZD2TkRn9pU4r0Jiqrx54OOiTDlESYHIiitnuiaiIwFsyx0SPVEx0R4ok/gUSmAFfqRlM90TKSCILQoVjNFsd2FpJMiCG1mUqpziZQzNYNFuq2LIinayv2JML6rcquLIh6aHZzSJcK6sYsiBOmAyJWaiWczm3ZcRKqCt1WBFB0WKVNrpaYreqcWKbLNGiFRC53uSdHStukCFfYMYzVttTFreRgTLyV9z2SnR+CySPQ6ntIYt3AeSVG/pl2RFJHd/Eu3qDqWUZG9Rz811+l7eIjUItt6hWJUxNt7IGN9fgBGOq3U/Etw3WJQhLwG5M5Unx+B0WpVFMWqwOZFDuIxzQpDnX7E6yLevAjeedyO3fF4s2smDQxNy+nBdqQevzkRoiV66+nYde+zyX3dGuEGhmYzDx2FxJxIqkXWrus+uOPJOKtD4jVFDEXkcKuLcKoVDBa7rvVblVUPmZu57qRqfCNiaFpGTbAXpX/fOgZza63z6sFd91x3XHVLmiI3Ro6UoiMK2x6ZErnp9wc6tVx3jVw3q66O1yL1FhsXiRAiOfdI3rGIXq8Y+0gyqWpEoQKTLau2hgiZqS2qlOf+65olshcx9pFkB/UfKhE3e7STcrh4L6JNFpXI2cc5xCvjs6S2MKBQQ65UlWdZ9vjyojYMg8Hg5o3I1ohI1BSxUt39wOTrI2Ty+LLbSj8+/fzx463IxkhqNTKrXDSmBJtcNDqkeL0mQNdaxHFuSog+YpGsTESkmVn16tcxKRIRTyv8Myl5en5+ruOxwFcKvJwrptPpfHHWLPxmzjJ+ZlciKZ6p1JoOrg7o1Xw7YLA95zC4dZE0ItNMhWR+9QlnBUSdDe+Wy81eB1cCRneIXjR1j0R6x5wlogz0PpfsQ1I1mxWx5u7jkci3I84R0cuThZRL1K7IMrtfLq7aFHlTIe2IpGmeTRFqUyQ68kAt1IgTOeMxxi2KOMce9WtvZi/QEW+SOemgPRHyP4lYVuHO1ZKrLZF31u/16zzGRTaTTXsi72yoEGrjSmNNWyLveyBP73GNrrUq2ir2p+tP+P6HWb6fwOtf/3Wqh3P956+5NuzxX/ntRE5IrYtycmoBAPApSRg23t0rRDIKwosN5+sMZUJHFg9YeWNBOByFLMg551Ye8A69X2AYWoIGdBj7dEgZDakSEXFghzaXYWzwQmPbKJFRPKSS8lDagZ0PKxGa08SW8ejSwzudIQ3tJKFiJKiwuS3qiFCHBvFoyC89vNPhSeJbTiB4LoLE4oLrb58NWGAFjAnR0a8HBQAAAAAAAAAAAAAAAACgLf4FgYdxgbgzX+4AAAAASUVORK5CYII=">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheks1patel&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheks1patel" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Blog app using MERN**
+
+- 🌱 I’m currently learning **MERN, Java spring boot, React js.**
+
+- 👯 I’m looking to collaborate on **Blog app using MERN**
+
+- 💬 Ask me about **react , MERN, Java**
+
+- 📫 How to reach me **sabhishek221201@gmail.com**
+
+- ⚡facts about me **Well determined, Consistent**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-kumar-patel-966955203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-patel-966955203" height="30" width="40" /></a>
+<a href="https://instagram.com/patel.s_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel.s_abhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sabhishek221201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabhishek221201" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheks1patel&show_icons=true&locale=en" alt="abhisheks1patel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheks1patel&" alt="abhisheks1patel" /></p>
