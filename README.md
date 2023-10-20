@@ -1,4 +1,3 @@
-![masterhead](https://github.com/Abhisheks1patel/Abhisheks1patel/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Patel</h1>
 <h3 align="center">A passionate frontend and java developer from India</h3>
