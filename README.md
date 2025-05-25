@@ -31,6 +31,13 @@
  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/" target="_blank" rel="noreferrer">
     <img src="https://repository-images.githubusercontent.com/326187489/2a769580-4deb-11eb-9ff5-379005d181eb" alt="java-swing" width="40" height="40"/>
   </a>
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+</a>
+
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheks1patel&show_icons=true&locale=en" alt="abhisheks1patel" /></p>
