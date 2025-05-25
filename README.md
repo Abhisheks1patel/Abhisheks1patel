@@ -21,8 +21,7 @@
 <a href="https://linkedin.com/in/abhishek-kumar-patel-966955203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-patel-966955203" height="30" width="40" /></a>
 <a href="https://instagram.com/patel.s_abhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patel.s_abhi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sabhishek221201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sabhishek221201" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/S_abhishek/" target="blank">
-  <img src="leetcode-icon.svg" alt="S_abhishek" height="30" width="40" />
+ <a href="https://leetcode.com/u/S_abhishek/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3030025.png" alt="S_abhishek" height="30" width="40" />
 </a>
 
 </p>
